@@ -1,2 +1,3 @@
 # student-
-this is my first git
+this is my frst git  
+Authort  henu ghale  
